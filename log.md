@@ -1,0 +1,53 @@
+---
+type: log
+title: "Change Log"
+description: "Chronological history of knowledge base changes"
+timestamp: 2026-08-18T23:20:00Z
+status: stable
+---
+
+# Change Log
+
+## 2026-08-18 — Seed Data Cleanup
+
+- Removed all 24 initial boilerplate/seed concept files across all domains, leaving only authentic user-created files:
+  - DevOps: removed `docker.md`, `ci-cd.md`, `containers.md`, `deploy-checklist.md`
+  - Finance: removed `compound-interest.md`, `emergency-fund.md`, `monthly-review-template.md`
+  - Health: removed `sleep-hygiene.md`, `workout-log-template.md`
+  - Learning: removed `essential-reads.md`, `feynman-technique.md`, `spaced-repetition.md`, `course-notes-template.md`
+  - Life: removed `gtd-methodology.md`, `2026-goals.md`, `weekly-review-template.md`
+  - Programming: removed `git.md`, `python.md`, `design-patterns.md`, `rest-api.md`, `http-status-codes.md`, `python-file-operations.md`
+  - Projects: removed `kb-architecture.md`, `project-template.md`
+- Preserved all user-generated content:
+  - 10 categorized bookmark files (418 Chrome bookmarks)
+  - `projects/notes/youtube-channels.md` (YouTube channel tracker and full catalog)
+  - `PrachinTirthDarshan_shorts.json`
+- Cleaned up empty subdirectories and updated domain indexes.
+- Re-generated `index.md` and validated all frontmatter.
+
+## 2026-08-18 — Chrome Bookmarks Migration & Organization
+
+- Parsed, sanitized, and deduplicated 552 Chrome bookmarks from `D:\bookmarks_8_18_26.html` into 418 unique categorized resources.
+- Organized bookmarks across 4 core domains into 10 structured OKF v0.2 concept files:
+  - `finance/bookmarks/trading-and-investing.md` (49 bookmarks): Stock screeners, Chartink, TradingView, Sensibull, IPOs, Unlisted Shares, Crypto, Broker portals.
+  - `finance/bookmarks/banking-and-tax.md` (21 bookmarks): Net banking (SBI, ICICI, PNB), Income Tax e-filing, PAN, NPS, GPF MP, EPF, Insurance.
+  - `learning/bookmarks/ai-tools-and-utilities.md` (36 bookmarks): Generative AI (Qwen, ElevenLabs, Genspark, LMArena), image background removers, audio transcription, Hindi OCR.
+  - `learning/bookmarks/digital-design-and-publishing.md` (30 bookmarks): Graphic design (Polotno, VistaCreate, Adobe Express), Amazon KDP, Google Play Books, icons, fonts.
+  - `learning/bookmarks/education-and-career.md` (26 bookmarks): MP Board, CBSE, University results (RDVV, RGPV), SEBI exam, Employment News.
+  - `life/bookmarks/government-and-civic-services.md` (33 bookmarks): Aadhaar, Samagra ID, Voter ID, Passport, MPOnline, Parivahan/Vehicle Tax, Electricity bill.
+  - `life/bookmarks/travel-and-transport.md` (28 bookmarks): IRCTC/Indian Railways, flight aggregators, RedBus/AbhiBus, Shirdi Sansthan booking, Fastag.
+  - `life/bookmarks/shopping-and-lifestyle.md` (124 bookmarks): E-commerce, discount coupons/cashback, DTH/mobile recharge, PDF converters, temp mail, calculators.
+  - `life/bookmarks/spiritual-and-media.md` (59 bookmarks): Jain media/radio, Osho audio discourses, devotional music, live TV news, comedy video archives, P2P/BitTorrent archives.
+  - `programming/bookmarks/developer-tools.md` (12 bookmarks): Cloud storage (Drive, OneDrive, Box), GitHub, Mockaroo, color palettes, tech news.
+- Updated domain-level indexes (`finance/index.md`, `learning/index.md`, `life/index.md`, `programming/index.md`) and rebuilt master `index.md`.
+- Validated all 45 markdown files against OKF frontmatter schema rules.
+
+## 2026-08-18 — Initial Creation
+
+- Created knowledge base structure using Google OKF v0.2
+- Added 8 domain folders: programming, devops, finance, health, learning, projects, life, inbox
+- Added 10 concept templates in `.templates/`
+- Added AI tool instructions in `.meta/`
+- Added automation scripts in `scripts/`
+- Added project note & full video catalog: `projects/notes/youtube-channels.md` (Bhakti Sangeet NKP & Prachin Tirth Darshan with 33+ videos/shorts)
+- Updated `projects/notes/youtube-channels.md`: Synced all 44 videos from `@PrachinTirthDarshan/videos`.
