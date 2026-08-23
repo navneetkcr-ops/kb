@@ -11,5 +11,4 @@ status: stable
 
 # Programming
 
-## Bookmarks
-- [Developer Tools & Utilities](../bookmarks/programming/developer-tools.md) — Cloud storage, API mockup tools, color palettes, and tech resources
+*No non-bookmark concept entries yet. All programming bookmarks are located in the [Bookmarks Hub](../bookmarks/index.md).*

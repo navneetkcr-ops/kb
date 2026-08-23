@@ -11,7 +11,4 @@ status: stable
 
 # Learning
 
-## Bookmarks
-- [AI Tools & Utilities](../bookmarks/learning/ai-tools-and-utilities.md) — Modern AI assistants, image editors, audio transcription, and Hindi OCR
-- [Digital Design & Publishing](../bookmarks/learning/digital-design-and-publishing.md) — Design platforms, book cover creators, KDP/Play Books, vector icons, and fonts
-- [Education, Exams & Career](../bookmarks/learning/education-and-career.md) — University/board results, SEBI/IIT exams, and employment news
+*No non-bookmark concept entries yet. All learning bookmarks are located in the [Bookmarks Hub](../bookmarks/index.md).*

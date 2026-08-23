@@ -2,7 +2,7 @@
 type: index
 title: "Knowledge Base Index"
 description: "Auto-generated navigation hub for the personal knowledge base"
-timestamp: 2026-08-23T06:00:53Z
+timestamp: 2026-08-23T06:04:24Z
 status: stable
 ---
 
