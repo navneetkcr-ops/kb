@@ -1,4 +1,4 @@
-﻿# AI Agent Knowledge Base Instructions (AGENTS.md)
+# AI Agent Knowledge Base Instructions (AGENTS.md)
 
 This repository (D:\kb) is the user's **Second Brain Knowledge Base**, structured using the **Google Open Knowledge Format (OKF v0.2)**.
 
@@ -41,3 +41,17 @@ When the user asks you to save, record, summarize, or capture new information:
 3. **Update Index & Change Log**:
    - Add a brief entry in log.md summarizing the addition.
    - Run python scripts/build-index.py or update index.md.
+
+---
+
+## 3. Token-Efficient Knowledge Base Architecture
+To minimize token consumption and maximize context efficiency for AI tools reading this KB:
+1. **Granular Modularization (Progressive Disclosure)**:
+   - **Never create massive monolithic files** (> 300-500 lines or > 10 KB).
+   - Split large topics, catalogs, or song lists into a dedicated subfolder (`domain/type/topic/index.md`, `topic/sub-topic.md`).
+2. **Rich Frontmatter Summaries**:
+   - Write informative `title` and `description` fields in YAML frontmatter. AI tools should be able to answer overview queries directly from `index.md` without loading full child files into context.
+3. **Strict YAML Escaping**:
+   - Double-escape all backslashes (`\\`) in YAML double-quoted strings or wrap paths in single quotes (`'...'`).
+4. **Targeted Reading**:
+   - Use line ranges (`StartLine`/`EndLine`) or `grep_search` instead of reading entire large files.
