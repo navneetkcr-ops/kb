@@ -24,6 +24,7 @@ Overview, links, and complete video lists for personal YouTube content creation 
 - **Handle**: `@BhaktiSangeetNKP`
 - **Category / Niche**: Devotional Music, Bhajans, Mantras, Kirtans & Stotras
 - **Focus**: Audio & video devotional songs, spiritual stotras, and peaceful Jain bhajans.
+- **Master Local Media Catalog**: [Devotional Bhajan & Songs Library Overview](../references/bhajan-and-songs/index.md) (158+ audio tracks, WAV masters, MP3s, Shorts, lyrics & AI prompts at `E:\Bhajan and Songs`)
 
 ### Videos List
 

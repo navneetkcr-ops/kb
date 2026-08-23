@@ -8,6 +8,18 @@ status: stable
 
 # Change Log
 
+## 2026-08-23 — Token-Efficient Modular Re-architecture (`E:\Bhajan and Songs`)
+
+- Refactored monolithic 102 KB (`bhajan-and-songs-catalog.md`) into a **Token-Efficient Modular Architecture** under `projects/references/bhajan-and-songs/`:
+  - `index.md`: Master navigation hub & asset overview (~2 KB / 500 tokens).
+  - `ai-music-prompts.md`: Isolated AI music generator prompts & production standards (~2.5 KB / 600 tokens).
+  - `audio-inventory.md`: Complete structured audio track master inventory (~6 KB / 1,500 tokens).
+  - `lyrics/hindu-bhajans.md`: Transcribed Hindi lyrics for Shiv & Hindu devotional songs.
+  - `lyrics/jain-tirth-bhajans.md`: Lyrics for Tirth Bhajans (Bhandasar, Delwara, Kulpakji, Medchal, Mirpur, etc.).
+  - `lyrics/jain-bhagwan-and-stotra.md`: Lyrics for Tirthankaras, Dada Gurudeo, Namokar Mantra, Uvasaggaharam Stotra.
+- **Token Efficiency**: Achieved **94%-98% reduction** in context token consumption during AI retrievals and lookups.
+- Updated links in `projects/notes/youtube-channels.md`, `projects/index.md`, and rebuilt master `index.md`.
+
 ## 2026-08-18 — Seed Data Cleanup
 
 - Removed all 24 initial boilerplate/seed concept files across all domains, leaving only authentic user-created files:

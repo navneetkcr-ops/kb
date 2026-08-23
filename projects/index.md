@@ -12,3 +12,6 @@ status: stable
 
 ## Notes
 - [YouTube Channels](notes/youtube-channels.md) — Overview and tracking for personal YouTube channels
+
+## References
+- [Devotional Bhajan & Songs Library Overview](references/bhajan-and-songs/index.md) — Master inventory, lyrics index, AI music generation prompts, and audio track catalog for `E:\Bhajan and Songs`
