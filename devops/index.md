@@ -11,4 +11,6 @@ status: stable
 
 # DevOps
 
-*No entries yet. This domain is ready for CI/CD, containers, and runbook notes.*
+## Runbooks
+- [Git-Crypt Key Recovery & Finance Domain Unlocking](runbooks/git-crypt-recovery.md) — Unencrypted guide for retrieving finance-key.key from Google Drive and unlocking encrypted financial records
+

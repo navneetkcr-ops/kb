@@ -8,14 +8,15 @@ status: stable
 
 # Change Log
 
-## 2026-08-23 — Documented Git-Crypt Key Backup in Google Drive (`finance/notes/git-crypt-key-backup.md`)
+## 2026-08-23 — Added Unencrypted Git-Crypt Key Recovery Runbook (`devops/runbooks/git-crypt-recovery.md`)
 
-- Added **Git-Crypt Finance Key Backup Location** note under `finance/notes/git-crypt-key-backup.md`:
-  - Documented Google Drive backup path for `finance-key.key`.
-  - Detailed step-by-step unlock and recovery commands for setting up new devices.
-- Updated `finance/index.md` navigation links and rebuilt master `index.md`.
+- Relocated key recovery documentation to an **unencrypted** runbook under `devops/runbooks/git-crypt-recovery.md`:
+  - Solved chicken-and-egg dilemma by ensuring recovery instructions remain plain text without requiring a key.
+  - Documented Google Drive path for `finance-key.key` and step-by-step unlocking instructions.
+- Updated `devops/index.md` navigation links and rebuilt master `index.md`.
 
 ## 2026-08-23 — Imported Dhan Stock Portfolio Holdings (`C:\Users\Win 11\Downloads\Dhan\Portfolio.csv`)
+
 
 
 - Added **Dhan Stock Portfolio Holdings** reference document under `finance/references/dhan-portfolio.md`:
