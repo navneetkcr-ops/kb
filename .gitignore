@@ -18,3 +18,8 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.bak
+
+# git-crypt keys
+*.key
+finance-key.key
+

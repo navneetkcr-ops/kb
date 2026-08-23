@@ -8,7 +8,16 @@ status: stable
 
 # Change Log
 
+## 2026-08-23 — Imported Dhan Stock Portfolio Holdings (`C:\Users\Win 11\Downloads\Dhan\Portfolio.csv`)
+
+- Added **Dhan Stock Portfolio Holdings** reference document under `finance/references/dhan-portfolio.md`:
+  - Structured summary of 38 stock positions with capital invested (₹6.71L), current valuation (₹8.23L), and net P&L (+₹1.52L / +22.73%).
+  - Detailed table with quantities, average purchase prices, last traded prices, market valuations, and individual position gains/losses.
+  - Highlights of top performing stocks by percentage gain and absolute profit.
+- Updated `finance/index.md` navigation links and rebuilt master `index.md`.
+
 ## 2026-08-23 — Integrated Shri Navneet Kochar: Meri Post aur Vishleshan (`F:\My Documents\Meri Post aur Vishleshan`)
+
 
 - Added complete **Token-Efficient OKF v0.2 Knowledge Base Catalog** under `life/references/meri-post-aur-vishleshan/`:
   - `index.md`: Master navigation hub & overview for writings, podcasts, slides, and mind maps.

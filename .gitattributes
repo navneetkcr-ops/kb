@@ -1,0 +1,2 @@
+# Encrypt all files in the finance folder with git-crypt
+finance/** filter=git-crypt diff=git-crypt
