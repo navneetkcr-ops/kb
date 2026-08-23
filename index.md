@@ -2,7 +2,7 @@
 type: index
 title: "Knowledge Base Index"
 description: "Auto-generated navigation hub for the personal knowledge base"
-timestamp: 2026-08-23T05:53:08Z
+timestamp: 2026-08-23T06:00:53Z
 status: stable
 ---
 
@@ -23,6 +23,7 @@ CI/CD, containers, infrastructure, and operational knowledge
 Personal finance concepts, strategies, and tracking
 
 ### References
+- [Dhan Trading Account Ledger Statement](finance/references/dhan-ledger-statement.md) — Detailed ledger statement for Dhan trading account covering April 01, 2026 to August 23, 2026, including SLB earnings, trades, funds deposits, and settlements.
 - [Dhan Stock Portfolio Holdings](finance/references/dhan-portfolio.md) — Comprehensive snapshot of stock portfolio holdings imported from Dhan, including 38 stock positions, purchase averages, current market values, and profit & loss breakdown.
 
 ## [Health](health/index.md)

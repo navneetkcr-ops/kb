@@ -68,6 +68,12 @@ status: stable
 - Cleaned up empty subdirectories and updated domain indexes.
 - Re-generated `index.md` and validated all frontmatter.
 
+## 2026-08-23 — Dhan Ledger Statement Import
+
+- Added `finance/references/dhan-ledger-statement.md` importing 33 transactions from `C:\Users\Win 11\Downloads\Dhan\Ledger_Statement.csv` covering April 01 to August 23, 2026.
+- Summarized ₹17,042.49 credits (SLB fees ₹6,293.24, deposits ₹10,000.00, SLB dividends ₹696.00) and ₹19,859.13 debits (trades ₹14,975.46, bank settlements ₹4,560.97, DP charges ₹250.75).
+- Updated `finance/index.md` and rebuilt master `index.md`.
+
 ## 2026-08-23 — Bookmarks Centralization into Single Directory
 
 - Reorganized all bookmarks from individual domain subfolders into a single centralized directory `D:\kb\bookmarks\` categorized by domain subfolders:
