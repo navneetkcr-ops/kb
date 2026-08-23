@@ -70,7 +70,17 @@ def build_index() -> str:
             if not subfolder.is_dir() or subfolder.name.startswith("."):
                 continue
             
-            concepts = sorted(subfolder.glob("*.md"))
+            concepts = []
+            for item in sorted(subfolder.iterdir()):
+                if item.is_file() and item.name.endswith(".md") and item.name != "index.md":
+                    concepts.append(item)
+                elif item.is_dir() and not item.name.startswith("."):
+                    topic_index = item / "index.md"
+                    if topic_index.exists():
+                        concepts.append(topic_index)
+                    else:
+                        concepts.extend(sorted(item.glob("*.md")))
+            
             if not concepts:
                 continue
             

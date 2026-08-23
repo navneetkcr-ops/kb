@@ -2,7 +2,7 @@
 type: index
 title: "Knowledge Base Index"
 description: "Auto-generated navigation hub for the personal knowledge base"
-timestamp: 2026-08-23T05:18:40Z
+timestamp: 2026-08-23T05:31:46Z
 status: stable
 ---
 
@@ -43,6 +43,9 @@ Project documentation, decisions, and planning
 ### Notes
 - [YouTube Channels & Video Catalog](projects/notes/youtube-channels.md) — Comprehensive overview, tracking, and complete video catalog for personal YouTube channels: Bhakti Sangeet NKP and Prachin Tirth Darshan
 
+### References
+- [Devotional Bhajan & Songs Library Overview](projects/references/bhajan-and-songs/index.md) — Master navigation hub and asset overview for local devotional music library at E:\\Bhajan and Songs
+
 ## [Life](life/index.md)
 Goals, productivity, and life management
 
@@ -51,6 +54,9 @@ Goals, productivity, and life management
 - [Shopping, Deals & Everyday Utilities Bookmarks](life/bookmarks/shopping-and-lifestyle.md) — Curated online shopping sites, coupons, PDF and image tools, temporary email, and everyday lifestyle helpers
 - [Spiritual, Music & Media Entertainment Bookmarks](life/bookmarks/spiritual-and-media.md) — Jain heritage resources, Osho audio discourses, devotional ghazals, classic tracks, and entertainment media
 - [Travel, Railways & Transportation Bookmarks](life/bookmarks/travel-and-transport.md) — Quick links for Indian Railways PNR and reservation, flight aggregators, bus booking, and pilgrimage stays
+
+### References
+- [Navneet Kochar: Meri Post aur Vishleshan Overview](life/references/meri-post-aur-vishleshan/index.md) — Master navigation hub and knowledge base catalog for Shri Navneet Kochar's writings, spiritual philosophy, Jain darshan, podcasts, slides, and reflections at F:\\My Documents\\Meri Post aur Vishleshan
 
 ## [Inbox](inbox/index.md)
 Quick capture staging area — review and file into domains regularly

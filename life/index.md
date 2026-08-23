@@ -16,3 +16,7 @@ status: stable
 - [Travel & Transportation](bookmarks/travel-and-transport.md) — Indian Railways PNR, flight aggregators, bus booking, and pilgrimage stays
 - [Shopping & Lifestyle](bookmarks/shopping-and-lifestyle.md) — Online shopping, coupons, PDF tools, temporary mail, and everyday helpers
 - [Spiritual & Media Entertainment](bookmarks/spiritual-and-media.md) — Jain media, Osho discourses, devotional music, live TV, and media archives
+
+## References
+- [Navneet Kochar: Meri Post aur Vishleshan](references/meri-post-aur-vishleshan/index.md) — Master navigation hub and knowledge base catalog for Shri Navneet Kochar's writings, spiritual philosophy, Jain darshan, podcasts, slides, and reflections
+

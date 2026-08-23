@@ -8,6 +8,19 @@ status: stable
 
 # Change Log
 
+## 2026-08-23 — Integrated Shri Navneet Kochar: Meri Post aur Vishleshan (`F:\My Documents\Meri Post aur Vishleshan`)
+
+- Added complete **Token-Efficient OKF v0.2 Knowledge Base Catalog** under `life/references/meri-post-aur-vishleshan/`:
+  - `index.md`: Master navigation hub & overview for writings, podcasts, slides, and mind maps.
+  - `01-aadhyatm-aur-darshan.md`: Sadguru vs Dharmguru, temple offerings & inner consciousness, grace, and silence.
+  - `02-samaj-aur-jain-darshan.md`: Jain society self-introspection, Paryushan Aangi significance, media claims factual rebuttal.
+  - `03-jeevan-aur-darshanik-chintan.md`: Ramayana vs Mahabharata impact on modern life, death as celebration (Antim Iksha), today's Dropadi.
+  - `04-vyaktigat-patra-aur-sansmaran.md`: 66th Birthday self-analysis letter ("Mera B'Day") & Covid-era roadside letter.
+  - `05-samajik-rishte-aur-manovigyan.md`: Post-marriage relationship dynamics, societal conditioning, fear vs love.
+  - `06-profile-aur-multimedia.md`: Multidisciplinary consulting profile, Konark Sun Temple time cycle, and complete inventory of 14 audio tracks, 10 slide PDFs, and 3 mind maps.
+- Enhanced `scripts/build-index.py` to auto-discover nested topic index files under domain directories.
+- Updated `life/index.md` and re-generated master `index.md`.
+
 ## 2026-08-23 — Token-Efficient Modular Re-architecture (`E:\Bhajan and Songs`)
 
 - Refactored monolithic 102 KB (`bhajan-and-songs-catalog.md`) into a **Token-Efficient Modular Architecture** under `projects/references/bhajan-and-songs/`:
