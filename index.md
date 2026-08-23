@@ -2,7 +2,7 @@
 type: index
 title: "Knowledge Base Index"
 description: "Auto-generated navigation hub for the personal knowledge base"
-timestamp: 2026-08-23T05:37:53Z
+timestamp: 2026-08-23T05:48:16Z
 status: stable
 ---
 
@@ -25,6 +25,9 @@ Personal finance concepts, strategies, and tracking
 ### Bookmarks
 - [Banking, Tax & Financial Services Bookmarks](finance/bookmarks/banking-and-tax.md) — Portals for net banking, income tax filing, provident funds (GPF, EPF, NPS), and insurance services
 - [Trading & Investment Bookmarks](finance/bookmarks/trading-and-investing.md) — Curated resources for stock market screeners, charting, options trading, IPO tracking, and brokerage accounts
+
+### Notes
+- [Git-Crypt Finance Key Backup Location](finance/notes/git-crypt-key-backup.md) — Documentation of the git-crypt symmetric encryption key (finance-key.key) backup stored in Google Drive for private finance domain recovery.
 
 ### References
 - [Dhan Stock Portfolio Holdings](finance/references/dhan-portfolio.md) — Comprehensive snapshot of stock portfolio holdings imported from Dhan, including 38 stock positions, purchase averages, current market values, and profit & loss breakdown.

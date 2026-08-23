@@ -8,7 +8,15 @@ status: stable
 
 # Change Log
 
+## 2026-08-23 — Documented Git-Crypt Key Backup in Google Drive (`finance/notes/git-crypt-key-backup.md`)
+
+- Added **Git-Crypt Finance Key Backup Location** note under `finance/notes/git-crypt-key-backup.md`:
+  - Documented Google Drive backup path for `finance-key.key`.
+  - Detailed step-by-step unlock and recovery commands for setting up new devices.
+- Updated `finance/index.md` navigation links and rebuilt master `index.md`.
+
 ## 2026-08-23 — Imported Dhan Stock Portfolio Holdings (`C:\Users\Win 11\Downloads\Dhan\Portfolio.csv`)
+
 
 - Added **Dhan Stock Portfolio Holdings** reference document under `finance/references/dhan-portfolio.md`:
   - Structured summary of 38 stock positions with capital invested (₹6.71L), current valuation (₹8.23L), and net P&L (+₹1.52L / +22.73%).
