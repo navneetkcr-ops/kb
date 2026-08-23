@@ -28,7 +28,7 @@ When the user asks you to save, record, summarize, or capture new information:
    - domain/cheatsheets/ for command lists and syntax summaries.
    - domain/snippets/ for reusable code snippets.
    - domain/runbooks/ for step-by-step procedures and checklists.
-   - domain/bookmarks/ for annotated resource links.
+   - bookmarks/category/ for annotated resource links (e.g. bookmarks/finance/, bookmarks/learning/).
    - domain/notes/ for meeting minutes, summaries, templates.
    - domain/decisions/ for Architecture Decision Records (ADRs).
    - domain/goals/ for goal tracking.

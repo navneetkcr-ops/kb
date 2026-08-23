@@ -68,6 +68,17 @@ status: stable
 - Cleaned up empty subdirectories and updated domain indexes.
 - Re-generated `index.md` and validated all frontmatter.
 
+## 2026-08-23 — Bookmarks Centralization into Single Directory
+
+- Reorganized all bookmarks from individual domain subfolders into a single centralized directory `D:\kb\bookmarks\` categorized by domain subfolders:
+  - `bookmarks/finance/` (`banking-and-tax.md`, `trading-and-investing.md`)
+  - `bookmarks/learning/` (`ai-tools-and-utilities.md`, `digital-design-and-publishing.md`, `education-and-career.md`)
+  - `bookmarks/life/` (`government-and-civic-services.md`, `shopping-and-lifestyle.md`, `spiritual-and-media.md`, `travel-and-transport.md`)
+  - `bookmarks/programming/` (`developer-tools.md`)
+- Created central `bookmarks/index.md` navigation hub.
+- Updated domain-level indexes (`finance/index.md`, `learning/index.md`, `life/index.md`, `programming/index.md`), cross-links, `build-index.py`, `new-concept.ps1`, `AGENTS.md`, and `README.md`.
+- Rebuilt master `index.md` and validated frontmatter across all 37 KB files.
+
 ## 2026-08-18 — Chrome Bookmarks Migration & Organization
 
 - Parsed, sanitized, and deduplicated 552 Chrome bookmarks from `D:\bookmarks_8_18_26.html` into 418 unique categorized resources.

@@ -44,7 +44,11 @@ $typeToFolder = @{
 
 $subfolder = $typeToFolder[$Type]
 $kbRoot = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)
-$targetDir = Join-Path $kbRoot $Domain $subfolder
+if ($Type -eq "bookmark") {
+    $targetDir = Join-Path $kbRoot "bookmarks" $Domain
+} else {
+    $targetDir = Join-Path $kbRoot $Domain $subfolder
+}
 $targetFile = Join-Path $targetDir "$Name.md"
 
 # Check if file already exists

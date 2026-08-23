@@ -13,7 +13,7 @@ tags:
 timestamp: 2026-08-23T11:00:00Z
 status: stable
 related:
-  - life/bookmarks/spiritual-and-media
+  - bookmarks/life/spiritual-and-media
   - projects/references/bhajan-and-songs/index
 ---
 

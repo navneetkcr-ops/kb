@@ -12,6 +12,6 @@ status: stable
 # Learning
 
 ## Bookmarks
-- [AI Tools & Utilities](bookmarks/ai-tools-and-utilities.md) — Modern AI assistants, image editors, audio transcription, and Hindi OCR
-- [Digital Design & Publishing](bookmarks/digital-design-and-publishing.md) — Design platforms, book cover creators, KDP/Play Books, vector icons, and fonts
-- [Education, Exams & Career](bookmarks/education-and-career.md) — University/board results, SEBI/IIT exams, and employment news
+- [AI Tools & Utilities](../bookmarks/learning/ai-tools-and-utilities.md) — Modern AI assistants, image editors, audio transcription, and Hindi OCR
+- [Digital Design & Publishing](../bookmarks/learning/digital-design-and-publishing.md) — Design platforms, book cover creators, KDP/Play Books, vector icons, and fonts
+- [Education, Exams & Career](../bookmarks/learning/education-and-career.md) — University/board results, SEBI/IIT exams, and employment news

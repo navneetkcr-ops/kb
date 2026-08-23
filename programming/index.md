@@ -12,4 +12,4 @@ status: stable
 # Programming
 
 ## Bookmarks
-- [Developer Tools & Utilities](bookmarks/developer-tools.md) — Cloud storage, API mockup tools, color palettes, and tech resources
+- [Developer Tools & Utilities](../bookmarks/programming/developer-tools.md) — Cloud storage, API mockup tools, color palettes, and tech resources

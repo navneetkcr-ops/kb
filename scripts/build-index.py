@@ -11,7 +11,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 
 KB_ROOT = Path(__file__).parent.parent
-DOMAINS = ["programming", "devops", "finance", "health", "learning", "projects", "life", "inbox"]
+DOMAINS = ["programming", "devops", "finance", "health", "learning", "projects", "life", "bookmarks", "inbox"]
 SKIP_DIRS = {".templates", ".meta", ".github", ".obsidian", ".git", "scripts"}
 
 

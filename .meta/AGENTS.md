@@ -46,7 +46,7 @@ This is a personal knowledge base built using the **Google Open Knowledge Format
 | `cheatsheet` | Quick-reference commands or syntax | `domain/cheatsheets/` |
 | `snippet` | Reusable code fragments | `domain/snippets/` |
 | `runbook` | Step-by-step operational procedures | `domain/runbooks/` |
-| `bookmark` | Curated links with annotations | `domain/bookmarks/` |
+| `bookmark` | Curated links with annotations | `bookmarks/category/` |
 | `note` | Free-form observations or meeting notes | `domain/notes/` |
 | `decision` | Architecture/design decision records | `domain/decisions/` |
 | `goal` | Personal or project goals with tracking | `domain/goals/` |

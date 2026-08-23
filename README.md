@@ -28,9 +28,10 @@ kb/
 ├── devops/          # CI/CD, containers, infrastructure, runbooks
 ├── finance/         # Personal finance concepts and tracking
 ├── health/          # Health, fitness, and wellness
-├── learning/        # Learning techniques, bookmarks, course notes
+├── learning/        # Learning techniques, course notes
 ├── projects/        # Project decisions and documentation
 ├── life/            # Goals, productivity, life management
+├── bookmarks/       # Centralized bookmarks categorized by domain (finance, learning, life, programming)
 ├── inbox/           # Quick capture staging area
 ├── .templates/      # Reusable OKF concept templates
 ├── .meta/           # AI tool instructions

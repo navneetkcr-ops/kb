@@ -13,7 +13,7 @@ timestamp: 2026-08-23T10:47:00Z
 status: stable
 related:
   - projects/notes/youtube-channels
-  - life/bookmarks/spiritual-and-media
+  - bookmarks/life/spiritual-and-media
 ---
 
 # Devotional Bhajan & Songs Library Overview (`E:\Bhajan and Songs`)
