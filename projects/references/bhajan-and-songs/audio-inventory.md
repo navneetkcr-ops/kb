@@ -1,13 +1,13 @@
 ---
 type: reference
 title: "Devotional Audio Track Master Inventory"
-description: "Complete track listings and file formats for 158+ audio files in E:\\Bhajan and Songs"
+description: "Complete track listings and file formats for 162+ audio and video files in E:\\Bhajan and Songs"
 tags:
   - projects
   - bhajan
   - audio-inventory
   - track-list
-timestamp: 2026-08-23T10:47:00Z
+timestamp: 2026-09-01T08:42:00Z
 status: stable
 related:
   - projects/references/bhajan-and-songs/index
@@ -15,7 +15,7 @@ related:
 
 # Devotional Audio Track Master Inventory (`E:\Bhajan and Songs`)
 
-Complete catalog of WAV masters, MP3 release files, YouTube Shorts audio clips, and Mantra Jaap recordings.
+Complete catalog of WAV masters, MP3 release files, YouTube Shorts audio/video clips, and Mantra Jaap recordings. Total 162 media assets (76 WAV masters, 84 MP3 files, 2 MP4 clips).
 
 ---
 
@@ -74,23 +74,25 @@ Complete catalog of WAV masters, MP3 release files, YouTube Shorts audio clips, 
 | 29 | `Jai Mirpur Dham 2.19` | Yes | Yes | 2.19 |
 | 30 | `Jai Mirpur Dham 2.42` | Yes | Yes | 2.42 |
 | 31 | `Jai Parshwnath Jaap 3.44` | Yes | Yes | 3.44 |
-| 32 | `Mahaveer Prabhu ` | Yes | Yes | N/A |
-| 33 | `Mahaveer Prabhu Mere` | Yes | Yes | N/A |
-| 34 | `Mahaveer Swami Jai JaiKar 3.03` | Yes | Yes | 3.03 |
-| 35 | `Mahavir Hamare 2.26` | Yes | Yes | 2.26 |
-| 36 | `Mallinath Prabhu Mere 3.20` | Yes | Yes | 3.20 |
-| 37 | `Mallinath Prabhu Mere 3.38` | Yes | Yes | 3.38 |
-| 38 | `Mallinath Prabhu Mere 4.23` | Yes | Yes | 4.23 |
-| 39 | `Mallinath Prabhu Mere 4.30` | Yes | Yes | 4.30 |
-| 40 | `Namo Arihantanam 7.23` | Yes | Yes | 7.23 |
-| 41 | `Namo Arihantanam Cut 5.13` | Yes | Yes | 5.13 |
-| 42 | `Paawan hai Hatundi Dham 2.53` | Yes | Yes | 2.53 |
-| 43 | `Parasnath prabhu Parsnath prabhu 4.30` | Yes | Yes | 4.30 |
-| 44 | `Parasnath prabhu Parsnath prabhu 4.42` | Yes | Yes | 4.42 |
-| 45 | `Shantinath Prabhu 2.29` | Yes | Yes | 2.29 |
-| 46 | `Uvasgraham Paasam Paasam 4.04` | Yes | Yes | 4.04 |
-| 47 | `Uvasgraham Paasam Paasam 5.40` | Yes | Yes | 5.40 |
-| 48 | `Uvasgraham Paasam Paasam Jaap 4.44` | Yes | Yes | 4.44 |
+| 32 | `Mahaveer Prabhu 3.45` | Yes | No | 3.45 |
+| 33 | `Mahaveer Prabhu` | Yes | Yes | N/A |
+| 34 | `Mahaveer Prabhu Mere` | Yes | Yes | N/A |
+| 35 | `Mahaveer Swami Jai JaiKar 3.03` | Yes | Yes | 3.03 |
+| 36 | `Mahavir Hamare 2.26` | Yes | Yes | 2.26 |
+| 37 | `Mallinath Prabhu Mere 3.20` | Yes | Yes | 3.20 |
+| 38 | `Mallinath Prabhu Mere 3.38` | Yes | Yes | 3.38 |
+| 39 | `Mallinath Prabhu Mere 4.23` | Yes | Yes | 4.23 |
+| 40 | `Mallinath Prabhu Mere 4.30` | Yes | Yes | 4.30 |
+| 41 | `Namo Arihantanam 7.23` | Yes | Yes | 7.23 |
+| 42 | `Namo Arihantanam Cut 5.13` | Yes | Yes | 5.13 |
+| 43 | `Paawan hai Hatundi Dham 2.53` | Yes | Yes | 2.53 |
+| 44 | `Parasnath prabhu Parsnath prabhu 4.30` | Yes | Yes | 4.30 |
+| 45 | `Parasnath prabhu Parsnath prabhu 4.42` | Yes | Yes | 4.42 |
+| 46 | `Shantinath Prabhu 2.29` | Yes | Yes | 2.29 |
+| 47 | `TriMandir Pawan Dham 5.48` | Yes | No | 5.48 |
+| 48 | `Uvasgraham Paasam Paasam 4.04` | Yes | Yes | 4.04 |
+| 49 | `Uvasgraham Paasam Paasam 5.40` | Yes | Yes | 5.40 |
+| 50 | `Uvasgraham Paasam Paasam Jaap 4.44` | Yes | Yes | 4.44 |
 
 ---
 

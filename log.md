@@ -8,6 +8,36 @@ status: stable
 
 # Change Log
 
+## 2026-09-01 — Integrated YouTube Music Video Archive (`F:\My Documents\YouTube Music Video`)
+
+- Created new **YouTube Music Video Archive Master Catalog (`projects/references/youtube-music-video/index.md`)**:
+  - Scanned and cataloged 6 full-length high-definition devotional music video MP4 files totaling **3.21 GB** (3.44 GB on disk) produced for `@BhaktiSangeetNKP`.
+  - Categorized into Jain Devotional & Stotras (4 videos / 2.53 GB: Namokar Mantra, Uvasaggaharam Stotra, Bhagwan Mahavir Bhajan, Dada Gurudeo) and Hindu & Shiv Devotional (2 videos / 705 MB: Kashi Vishwanath Bhajan & Shiv Bhajan 3.33).
+  - Provided structured master table with file sizes, timestamps, titles, and local audio asset cross-links (`E:\Bhajan and Songs`).
+- Updated **YouTube Channels Tracking (`projects/notes/youtube-channels.md`)**:
+  - Synced `@BhaktiSangeetNKP` video list (6 videos) and cross-linked local music video archive.
+- Updated `projects/index.md` and re-generated master `index.md`.
+## 2026-09-01 — Integrated YouTube Video Post Archive (`F:\My Documents\YouTube Video Post`)
+
+- Created new **YouTube Video Post Archive Master Catalog (`projects/references/youtube-video-post/index.md`)**:
+  - Scanned and cataloged 47 high-definition MP4 edited video files totaling **12.94 GB** (13.89 GB on disk) created between April 18 and August 26, 2026.
+  - Organized assets by categories: Economic/Social (8 videos / 346 MB), Ancient & Historic Temples (12 videos / 1.45 GB), and Jain Pilgrimage Tirth Heritage (27 videos / 11.15 GB).
+  - Provided structured master table with exact file sizes, modification timestamps, topic tags, and channel mappings (`@PrachinTirthDarshan` & `@BhaktiSangeetNKP`).
+- Updated **YouTube Channels Tracking (`projects/notes/youtube-channels.md`)**:
+  - Synced video catalog for `@PrachinTirthDarshan` to 47 videos (adding Sherisa Jain Tirth, Jain Samaj Ki Saakh, and Tri Mandir Vadodara) and cross-linked local archive catalog.
+- Updated `projects/index.md` and re-generated master `index.md`.
+## 2026-09-01 — Devotional Bhajan & Songs Library Audit & Knowledge Base Update (`E:\Bhajan and Songs`)
+
+- Conducted a complete audit of the local devotional music library at `E:\Bhajan and Songs`:
+  - Scanned 162 total audio/video assets (76 WAV masters, 84 MP3 releases/shorts, 2 MP4 clips) and 31 `.docx` lyrics/prompt documents.
+- Updated **Audio Inventory (`projects/references/bhajan-and-songs/audio-inventory.md`)**:
+  - Added new WAV master tracks: `TriMandir Pawan Dham 5.48` and `Mahaveer Prabhu 3.45`.
+  - Synced track listing across Hindu Bhajans, Jain Bhajans (50 tracks), Jain Shorts (36 clips), and Mantra Jaap (2 tracks). Total assets updated to 162 media files.
+- Updated **Transcribed Lyrics Modules (`projects/references/bhajan-and-songs/lyrics/`)**:
+  - `lyrics/hindu-bhajans.md`: Transcribed & added complete lyrics for `Shiv Bhajan (Om Namah Shivaya 3.33)`.
+  - `lyrics/jain-bhagwan-and-stotra.md`: Added Prakrit text & Hindi translation for `Logassya Stotra` and updated final lyrics for `Jai Jai Dada Gurudeo 5.32 Final`.
+  - `lyrics/jain-tirth-bhajans.md`: Transcribed & added complete lyrics for `TriMandir Ka Pawan Dham` and updated `Jai Jai Mirpur Dham`.
+- Updated **Master Navigation Hub (`projects/references/bhajan-and-songs/index.md`)** & Master KB Index (`index.md`).
 ## 2026-08-23 — Added Unencrypted Git-Crypt Key Recovery Runbook (`devops/runbooks/git-crypt-recovery.md`)
 
 - Relocated key recovery documentation to an **unencrypted** runbook under `devops/runbooks/git-crypt-recovery.md`:

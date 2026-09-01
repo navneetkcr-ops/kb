@@ -8,7 +8,7 @@ tags:
   - video-catalog
   - content-creation
   - spiritual
-timestamp: 2026-08-18T22:53:00Z
+timestamp: 2026-09-01T09:16:00Z
 status: stable
 ---
 
@@ -24,15 +24,19 @@ Overview, links, and complete video lists for personal YouTube content creation 
 - **Handle**: `@BhaktiSangeetNKP`
 - **Category / Niche**: Devotional Music, Bhajans, Mantras, Kirtans & Stotras
 - **Focus**: Audio & video devotional songs, spiritual stotras, and peaceful Jain bhajans.
-- **Master Local Media Catalog**: [Devotional Bhajan & Songs Library Overview](../references/bhajan-and-songs/index.md) (158+ audio tracks, WAV masters, MP3s, Shorts, lyrics & AI prompts at `E:\Bhajan and Songs`)
+- **Master Local Media Catalog**: [Devotional Bhajan & Songs Library Overview](../references/bhajan-and-songs/index.md) (162 media assets, WAV masters, MP3s, Shorts, lyrics & AI prompts at `E:\Bhajan and Songs`)
+- **Master Local Music Video Archive**: [YouTube Music Video Master Catalog](../references/youtube-music-video/index.md) (6 full-length HD devotional music videos, 3.21 GB at `F:\My Documents\YouTube Music Video`)
 
-### Videos List
+### Videos List (Total: 6)
 
 | # | Video Title | Link |
 |:---|:---|:---|
 | 1 | आज कहानी तुम्हें सुनायें \| Bhagwan Mahavir Bhajan \| Vande Shri Veeram | [Watch Video](https://www.youtube.com/watch?v=-bvqtg7XMas) |
 | 2 | उवसग्गहरं स्तोत्र \| Uvasaggaharam Stotra \| Powerful Jain Mantra | [Watch Video](https://www.youtube.com/watch?v=GOm7F4V3T2o) |
 | 3 | णमोकार महामंत्र भजन \| Navkar Mantra \| Peaceful Jain Bhajan | [Watch Video](https://www.youtube.com/watch?v=w-lk1rj2MBc) |
+| 4 | कदम तो रखो काशी में \| Kadam To Rakho Kashi Me Devotional Bhajan | Local Music Video Archive |
+| 5 | जय जय दादा गुरुदेव \| Dada Gurudeo 5:32 Devotional Video | Local Music Video Archive |
+| 6 | ॐ नम: शिवाय \| Shiv Bhajan 3.33 (Om Namah Shivaya) | Local Music Video Archive |
 
 ### Shorts List
 
@@ -52,8 +56,9 @@ Overview, links, and complete video lists for personal YouTube content creation 
 - **Handle**: `@PrachinTirthDarshan`
 - **Category / Niche**: Ancient Temples, Pilgrimage Heritage, History & Virtual Darshan
 - **Focus**: Documenting historical temples, ancient pilgrimage sites (Tirth Sthal), temple architecture, sthal puranas, and travel guides for pilgrims and tourists.
+- **Master Local Video Archive**: [YouTube Video Post Master Catalog](../references/youtube-video-post/index.md) (47 MP4 edited video files, 12.94 GB at `F:\My Documents\YouTube Video Post`)
 
-### Videos List (Total: 44)
+### Videos List (Total: 47)
 
 | # | Video Title | Link |
 |:---|:---|:---|
@@ -101,6 +106,9 @@ Overview, links, and complete video lists for personal YouTube content creation 
 | 42 | 1947 से आज तक भारत की आर्थिक यात्रा \| India Economic Journey 1947 | [Watch Video](https://www.youtube.com/watch?v=AXNs2bVQzoM) |
 | 43 | श्रिंकोनॉमिक्स: भारत के लिए सबक \| Shrinkonomics Japan Society 5.0 | [Watch Video](https://www.youtube.com/watch?v=7wWNCcxrGHY) |
 | 44 | भारत की जनसंख्या: अवसर या चुनौती \| India Population Dividend Story | [Watch Video](https://www.youtube.com/watch?v=lHVD5zPX5T0) |
+| 45 | श्री शेरीसा जैन तीर्थ \| Shri Sherisa Lodhan Parshwanath Jain Tirth Gujarat | Local Video Archive |
+| 46 | जैन समाज की साख और योगदान \| Jain Samaj Contribution & Saakh Analysis | Local Video Archive |
+| 47 | त्रिमंदिर वडोदरा \| Tri Mandir Vadodara Non-Sectarian Heritage | Local Video Archive |
 
 ---
 

@@ -2,7 +2,7 @@
 type: index
 title: "Knowledge Base Index"
 description: "Auto-generated navigation hub for the personal knowledge base"
-timestamp: 2026-08-23T06:04:24Z
+timestamp: 2026-09-01T03:48:34Z
 status: stable
 ---
 
@@ -40,6 +40,8 @@ Project documentation, decisions, and planning
 
 ### References
 - [Devotional Bhajan & Songs Library Overview](projects/references/bhajan-and-songs/index.md) — Master navigation hub and asset overview for local devotional music library at E:\\Bhajan and Songs
+- [YouTube Music Video Archive Master Catalog](projects/references/youtube-music-video/index.md) — Master catalog and storage inventory for 6 high-definition edited devotional music video MP4 files (3.21 GB) stored at F:\My Documents\YouTube Music Video
+- [YouTube Video Post Archive Master Catalog](projects/references/youtube-video-post/index.md) — Master catalog and storage inventory for 47 high-definition edited YouTube video files (12.94 GB) stored at F:\My Documents\YouTube Video Post
 
 ## [Life](life/index.md)
 Goals, productivity, and life management
