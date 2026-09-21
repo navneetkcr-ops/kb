@@ -8,7 +8,7 @@ tags:
   - video-catalog
   - content-creation
   - spiritual
-timestamp: 2026-09-01T09:16:00Z
+timestamp: 2026-09-21T07:40:00Z
 status: stable
 ---
 
@@ -25,9 +25,9 @@ Overview, links, and complete video lists for personal YouTube content creation 
 - **Category / Niche**: Devotional Music, Bhajans, Mantras, Kirtans & Stotras
 - **Focus**: Audio & video devotional songs, spiritual stotras, and peaceful Jain bhajans.
 - **Master Local Media Catalog**: [Devotional Bhajan & Songs Library Overview](../references/bhajan-and-songs/index.md) (162 media assets, WAV masters, MP3s, Shorts, lyrics & AI prompts at `E:\Bhajan and Songs`)
-- **Master Local Music Video Archive**: [YouTube Music Video Master Catalog](../references/youtube-music-video/index.md) (6 full-length HD devotional music videos, 3.21 GB at `F:\My Documents\YouTube Music Video`)
+- **Master Local Music Video Archive**: [YouTube Music Video Master Catalog](../references/youtube-music-video/index.md) (11 full-length HD devotional music videos, 4.75 GB at `F:\My Documents\YouTube Music Video`)
 
-### Videos List (Total: 6)
+### Videos List (Total: 11)
 
 | # | Video Title | Link |
 |:---|:---|:---|
@@ -37,6 +37,11 @@ Overview, links, and complete video lists for personal YouTube content creation 
 | 4 | कदम तो रखो काशी में \| Kadam To Rakho Kashi Me Devotional Bhajan | Local Music Video Archive |
 | 5 | जय जय दादा गुरुदेव \| Dada Gurudeo 5:32 Devotional Video | Local Music Video Archive |
 | 6 | ॐ नम: शिवाय \| Shiv Bhajan 3.33 (Om Namah Shivaya) | Local Music Video Archive |
+| 7 | जय जय मीरपुर धाम \| Meerpur Jain Bhajan | Local Music Video Archive |
+| 8 | ॐ गं गणपतये नमः \| Ganesh Mantra Devotional Video | Local Music Video Archive |
+| 9 | श्री शांतिनाथ प्रभु भजन \| Shantinath Prabhu Jain Bhajan | Local Music Video Archive |
+| 10 | ॐ नमो भगवते वासुदेवाय \| Om Namo Bhagwate Vasudevay Video | Local Music Video Archive |
+| 11 | तित्थयरा मे पसियंतु मंत्र \| Titthayara Me Pasiyantu Stotra Mantra | Local Music Video Archive |
 
 ### Shorts List
 
@@ -56,9 +61,9 @@ Overview, links, and complete video lists for personal YouTube content creation 
 - **Handle**: `@PrachinTirthDarshan`
 - **Category / Niche**: Ancient Temples, Pilgrimage Heritage, History & Virtual Darshan
 - **Focus**: Documenting historical temples, ancient pilgrimage sites (Tirth Sthal), temple architecture, sthal puranas, and travel guides for pilgrims and tourists.
-- **Master Local Video Archive**: [YouTube Video Post Master Catalog](../references/youtube-video-post/index.md) (47 MP4 edited video files, 12.94 GB at `F:\My Documents\YouTube Video Post`)
+- **Master Local Video Archive**: [YouTube Video Post Master Catalog](../references/youtube-video-post/index.md) (52 MP4 edited video files, 15.98 GB at `F:\My Documents\YouTube Video Post`)
 
-### Videos List (Total: 47)
+### Videos List (Total: 52)
 
 | # | Video Title | Link |
 |:---|:---|:---|
@@ -109,6 +114,11 @@ Overview, links, and complete video lists for personal YouTube content creation 
 | 45 | श्री शेरीसा जैन तीर्थ \| Shri Sherisa Lodhan Parshwanath Jain Tirth Gujarat | Local Video Archive |
 | 46 | जैन समाज की साख और योगदान \| Jain Samaj Contribution & Saakh Analysis | Local Video Archive |
 | 47 | त्रिमंदिर वडोदरा \| Tri Mandir Vadodara Non-Sectarian Heritage | Local Video Archive |
+| 48 | श्री हिंगकारगिरी जैन तीर्थ मंगलगिरी \| Shri Hinkargiri Jain Tirth Mangalagiri AP | Local Video Archive |
+| 49 | राजविहार जैन तीर्थ भोपाल \| Rajvihar Jain Tirth Bhopal MP | Local Video Archive |
+| 50 | कोबा जैन तीर्थ गांधीनगर \| Shri Koba Mahavir Jain Tirth Gandhinagar Gujarat | Local Video Archive |
+| 51 | उध्रोज जैन तीर्थ मेहसाणा \| Shri Udhroj Jain Tirth Mehsana Gujarat | Local Video Archive |
+| 52 | जयानंद धाम लोनावला \| Jayanand Dham Jain Tirth Lonavala Maharashtra | Local Video Archive |
 
 ---
 

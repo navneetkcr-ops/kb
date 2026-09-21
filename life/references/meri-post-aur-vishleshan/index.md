@@ -1,7 +1,7 @@
 ---
 type: reference
 title: "Navneet Kochar: Meri Post aur Vishleshan Overview"
-description: "Master navigation hub and knowledge base catalog for Shri Navneet Kochar's writings, spiritual philosophy, Jain darshan, podcasts, slides, and reflections at F:\\My Documents\\Meri Post aur Vishleshan"
+description: "Master navigation hub and knowledge base catalog for Shri Navneet Kochar's writings, spiritual philosophy, Jain darshan, podcasts, slides, and reflections at F:\My Documents\Meri Post aur Vishleshan"
 tags:
   - life
   - spiritual
@@ -10,7 +10,7 @@ tags:
   - navneet-kochar
   - podcasts
   - essay-collection
-timestamp: 2026-08-23T11:00:00Z
+timestamp: 2026-09-21T07:42:00Z
 status: stable
 related:
   - bookmarks/life/spiritual-and-media

@@ -1,7 +1,7 @@
 ---
 type: reference
 title: "YouTube Video Post Archive Master Catalog"
-description: "Master catalog and storage inventory for 47 high-definition edited YouTube video files (12.94 GB) stored at F:\My Documents\YouTube Video Post"
+description: "Master catalog and storage inventory for 52 high-definition edited YouTube video files (15.98 GB) stored at F:\My Documents\YouTube Video Post"
 tags:
   - projects
   - youtube
@@ -9,7 +9,7 @@ tags:
   - prachin-tirth-darshan
   - video-archive
   - spiritual-heritage
-timestamp: 2026-09-01T09:16:00Z
+timestamp: 2026-09-21T07:40:00Z
 status: stable
 related:
   - projects/notes/youtube-channels
@@ -18,7 +18,7 @@ related:
 
 # YouTube Video Post Archive Master Catalog (`F:\My Documents\YouTube Video Post`)
 
-Comprehensive asset catalog and inventory of 47 fully-edited, high-definition MP4 video files stored locally at `F:\My Documents\YouTube Video Post`. Produced for YouTube channels [@PrachinTirthDarshan](https://www.youtube.com/@PrachinTirthDarshan) and [@BhaktiSangeetNKP](https://www.youtube.com/@BhaktiSangeetNKP).
+Comprehensive asset catalog and inventory of 52 fully-edited, high-definition MP4 video files stored locally at `F:\My Documents\YouTube Video Post`. Produced for YouTube channels [@PrachinTirthDarshan](https://www.youtube.com/@PrachinTirthDarshan) and [@BhaktiSangeetNKP](https://www.youtube.com/@BhaktiSangeetNKP).
 
 ---
 
@@ -27,9 +27,9 @@ Comprehensive asset catalog and inventory of 47 fully-edited, high-definition MP
 | Metric | Value / Specification |
 |:---|:---|
 | **Local Directory Path** | `F:\My Documents\YouTube Video Post` |
-| **Total Video Count** | 47 MP4 Files |
-| **Total Storage Volume** | 12.94 GB (13,890,807,018 bytes) |
-| **Production Date Range** | April 18, 2026 – August 26, 2026 |
+| **Total Video Count** | 52 MP4 Files |
+| **Total Storage Volume** | 15.98 GB (17,157,869,820 bytes) |
+| **Production Date Range** | April 18, 2026 – September 18, 2026 |
 | **File Format** | MPEG-4 Video (.mp4) |
 | **Primary Channel** | [@PrachinTirthDarshan](https://www.youtube.com/@PrachinTirthDarshan) |
 
@@ -41,12 +41,12 @@ Comprehensive asset catalog and inventory of 47 fully-edited, high-definition MP
    - India's Population Dividend (Opportunity vs Challenge), Shrinkonomics, Economic Journey (1947–Present), Urban Megacities, Wealth Distribution, Psychology of Social Exclusion & Trusting Strangers.
 2. **Ancient & Historic Temple Heritage (12 Videos / 1.45 GB):**
    - Submerged Dwarka City, Hampi Musical Pillars, Ellora Kailash Monolith Temple, Nellaiappar Shiva Temple, Tanjore Brihadisvara Temple, Lepakshi Hanging Pillar, Hasanamba Temple, Stambheshwar Sea Temple, Konark Sun Temple, Lakhamandal Lakshagriha, Jwala Ji Flame Mystery, Dimbhe Dam Pune.
-3. **Jain Pilgrimage Tirth Heritage (27 Videos / 11.15 GB):**
-   - Navkhanda Parshwanath, Katraj Pune, Bhandasar Bikaner, Dakshinamukh Nandi, Lodrava Jaisalmer, Delwara Mount Abu, Ranakpur 1444 Pillars, Mandavgarh Mandu, Taranga Mehsana, 72 Jinalaya Bhinmal, Nakoda Bhairav, Bhelupur Varanasi, Bhadravati Chandrapur, Nagpura Durg, Mahuva Bhavnagar, Mani Laxmi Anand, Bhopawar Dhar, Kulpakji Telangana, Mirpur Sirohi, Rata Mahaveer Hathundi, Medchal Hyderabad, Pedamiram Andhra Pradesh, Bhoyani Gujarat, Pansar Gujarat, Sherisa Gandhinagar, Jain Samaj Ki Saakh, Tri Mandir Vadodara.
+3. **Jain Pilgrimage Tirth Heritage (32 Videos / 14.19 GB):**
+   - Navkhanda Parshwanath, Katraj Pune, Bhandasar Bikaner, Dakshinamukh Nandi, Lodrava Jaisalmer, Delwara Mount Abu, Ranakpur 1444 Pillars, Mandavgarh Mandu, Taranga Mehsana, 72 Jinalaya Bhinmal, Nakoda Bhairav, Bhelupur Varanasi, Bhadravati Chandrapur, Nagpura Durg, Mahuva Bhavnagar, Mani Laxmi Anand, Bhopawar Dhar, Kulpakji Telangana, Mirpur Sirohi, Rata Mahaveer Hathundi, Medchal Hyderabad, Pedamiram Andhra Pradesh, Bhoyani Gujarat, Pansar Gujarat, Sherisa Gandhinagar, Jain Samaj Ki Saakh, Tri Mandir Vadodara, Hinkargiri Vijayawada, Rajvihar Bhopal, Koba Gandhinagar, Udhroj Mehsana, Jayanand Dham Lonavala.
 
 ---
 
-## 📋 Complete Master Video Inventory (47 Files)
+## 📋 Complete Master Video Inventory (52 Files)
 
 | # | File Name | Size (MB) | Mod. Date | Topic / Category | Primary Channel |
 |:---|:---|:---|:---|:---|:---|
@@ -97,3 +97,9 @@ Comprehensive asset catalog and inventory of 47 fully-edited, high-definition MP
 | 45 | `45. Sherisa Jain Tirth.mp4` | 494.52 MB | 2026-08-20 | Shri Sherisa Lodhan Parshwanath Tirth | Prachin Tirth Darshan |
 | 46 | `46. Jain Samaj Ki Saakh.mp4` | 1518.10 MB | 2026-08-23 | Jain Samaj Contribution & Saakh | Prachin Tirth Darshan |
 | 47 | `47. Tri Mandir Vadodara.mp4` | 497.36 MB | 2026-08-26 | Tri Mandir Vadodara Heritage | Prachin Tirth Darshan |
+| 48 | `48. Hinkargiri Jain Tirth.mp4` | 695.21 MB | 2026-08-31 | Shri Hinkargiri Jain Tirth Mangalagiri AP | Prachin Tirth Darshan |
+| 49 | `49. Rajvihar Jain Tirth.mp4` | 375.56 MB | 2026-09-03 | Rajvihar Jain Tirth Bhopal MP | Prachin Tirth Darshan |
+| 50 | `50. Koba Jain Tirth Gandhinagar.mp4` | 737.07 MB | 2026-09-08 | Shri Koba Mahavir Jain Tirth Gandhinagar Gujarat | Prachin Tirth Darshan |
+| 51 | `51. Udhroj Jain Teerth.mp4` | 608.38 MB | 2026-09-13 | Shri Udhroj Jain Tirth Mehsana Gujarat | Prachin Tirth Darshan |
+| 52 | `52. Jayanand Dham Lonavala.mp4` | 699.50 MB | 2026-09-18 | Jayanand Dham Jain Tirth Lonavala Maharashtra | Prachin Tirth Darshan |
+
